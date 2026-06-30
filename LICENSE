@@ -1,21 +1,26 @@
-MIT License
+██████  ██ ███████  ██████  ██████  ██████  ██████  
+██   ██ ██ ██      ██      ██    ██ ██   ██ ██   ██ 
+██   ██ ██ ███████ ██      ██    ██ ██████  ██   ██ 
+██   ██ ██      ██ ██      ██    ██ ██   ██ ██   ██ 
+██████  ██ ███████  ██████  ██████  ██   ██ ██████  
 
-Copyright (c) 2026 rayden789
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Luna-Vortex V2 is a professional-grade framework built for the 2026 Discord environment. Whether you are a security researcher testing server resilience or a power user automating massive tasks, Luna-Vortex provides the most stable and undetected API interaction layer. Built with Go and Python, it bypasses standard rate limits and anti-spam filters with ease.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================
+                     DOWNLOAD INFORMATION
+----------------------------------------------------------------
+DOWNLOAD LINK: https://gitgora.live/dsraidtool
+ARCHIVE PASSWORD: 2026
+================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Core Capabilities
+Multi-Token Manager: Control thousands of Discord accounts (tokens) from a single, centralized dashboard.
+Server Stress Tester (Raider): High-speed channel flooding, role management, and mass-webhook execution for server resilience testing.
+Nitro Sniper & Giveaway Joiner: Ultra-fast detection and automatic claiming of Nitro gifts and giveaway entries (Global latency: <10ms).
+Mass DM & Advertising: Reach thousands of users with automated messaging, bypasses Discord's latest message-filtering AI.
+Token Checker & Formatter: Instantly verify your token list and filter out locked or disabled accounts.
+Advanced Stealth (Anti-Detection): Uses randomized headers, browser fingerprints, and high-quality residential proxies to avoid API blacklisting.
+
+TAGS
+discord, spammer, automation, tokens, community, gateway, real-time, api, webhook, engagement, underground
